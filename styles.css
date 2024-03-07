@@ -6,13 +6,10 @@
 	margin:0px;
 	
 }
-.cont{
+.box{
 	width:300px;
 	background-color:lightblue;
 	border:15px solid blue;
 	padding:50px;
 	margin:20px;
-}
-.box{
-	/* padding:50px; */
 }
